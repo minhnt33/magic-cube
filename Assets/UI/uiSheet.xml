@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6f18bf828d4cfed49cfece35091b80d4:f8bbfe8f7764604dd015a255e0c8399c:272dc370f4c3f7fadf221047439bbfac$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="uiSheet.png" width="2048" height="2048">
+    <sprite n="alarm-clock-th.png" x="2" y="2" w="85" h="100" pX="0.5" pY="0.5"/>
+    <sprite n="bar2_bar.png" x="89" y="2" w="390" h="390" pX="0.5" pY="0.5"/>
+    <sprite n="bar2_bg.png" x="481" y="2" w="390" h="390" pX="0.5" pY="0.5"/>
+    <sprite n="bar2_fg.png" x="873" y="2" w="390" h="390" pX="0.5" pY="0.5"/>
+    <sprite n="but_check-01.png" x="1265" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="but_cross-01.png" x="1331" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="but_cup-01.png" x="1397" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="but_home-01.png" x="1463" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="but_leaderboard-01.png" x="1529" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="but_level.png" x="1595" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="but_mute.png" x="1661" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="but_next.png" x="1727" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="but_pause-01.png" x="1793" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="but_play.png" x="1859" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="but_reset-01.png" x="1925" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="but_shop-01.png" x="2" y="394" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="but_sound.png" x="68" y="394" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="part_59.png" x="134" y="394" w="263" h="226" pX="0.5" pY="0.5"/>
+    <sprite n="text_failed.png" x="399" y="394" w="292" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="text_level_clear.png" x="693" y="394" w="513" h="71" pX="0.5" pY="0.5"/>
+    <sprite n="text_magiccubes.png" x="1208" y="394" w="429" h="91" pX="0.5" pY="0.5"/>
+    <sprite n="text_ready.png" x="1639" y="394" w="216" h="71" pX="0.5" pY="0.5"/>
+    <sprite n="text_start.png" x="2" y="622" w="199" h="71" pX="0.5" pY="0.5"/>
+    <sprite n="tut_modeboss.png" x="203" y="622" w="682" h="176" pX="0.5" pY="0.5"/>
+    <sprite n="tut_modesurvive.png" x="887" y="622" w="999" h="91" pX="0.5" pY="0.5"/>
+    <sprite n="tut_modetimeattack.png" x="2" y="800" w="815" h="160" pX="0.5" pY="0.5"/>
+    <sprite n="ui_arrow.png" x="819" y="800" w="25" h="26" pX="0.5" pY="0.5"/>
+    <sprite n="ui_boss_bar.png" x="846" y="800" w="512" h="128" pX="0.5" pY="0.5"/>
+    <sprite n="ui_boss_bg_bar.png" x="1360" y="800" w="512" h="128" pX="0.5" pY="0.5"/>
+    <sprite n="ui_cover.png" x="2" y="962" w="256" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="ui_panel.png" x="260" y="962" w="252" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="ui_star-01.png" x="514" y="962" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="ui_tut_1.png" x="580" y="962" w="320" h="480" pX="0.5" pY="0.5"/>
+    <sprite n="ui_tut_2.jpg" x="902" y="962" w="320" h="480" pX="0.5" pY="0.5"/>
+    <sprite n="ui_tut_3.jpg" x="1224" y="962" w="320" h="480" pX="0.5" pY="0.5"/>
+    <sprite n="ui_tut_4.jpg" x="1546" y="962" w="320" h="480" pX="0.5" pY="0.5"/>
+</TextureAtlas>
